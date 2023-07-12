@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video2scr", "Video2scr\Video2scr.csproj", "{73954B79-4560-416C-8B32-8A74118B3213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73954B79-4560-416C-8B32-8A74118B3213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73954B79-4560-416C-8B32-8A74118B3213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73954B79-4560-416C-8B32-8A74118B3213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73954B79-4560-416C-8B32-8A74118B3213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9CF602E-031F-4AE3-B87A-7F1E40D4CF0F}
+	EndGlobalSection
+EndGlobal
